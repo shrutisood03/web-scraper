@@ -1,0 +1,456 @@
+{
+  "title": "The AI workspace that works for you. | Notion",
+  "headings": {
+    "h1": [
+      "One workspace. Zero busywork."
+    ],
+    "h2": [
+      "Features",
+      "Get started",
+      "Teams",
+      "Team size",
+      "Learn",
+      "Build",
+      "Notion is where your teams and AI agents capture knowledge, find answers, and automate projects. Now a team of 7 feels like 70.",
+      "Introducing Notion 3.0",
+      "Automate repetitive tasks.",
+      "One search for everything.",
+      "Perfect notes, every time.",
+      "Manage any project, big or small.",
+      "More productivity. Fewer tools.",
+      "Trusted by teams that ship.",
+      "Let Notion AI handle the busywork.",
+      "Try for free."
+    ],
+    "h3": [
+      "Notion AI",
+      "Agents",
+      "Enterprise Search",
+      "AI Meeting Notes",
+      "Docs",
+      "Knowledge Base",
+      "Projects",
+      "Sites",
+      "Explore AI use cases",
+      "Browse marketplace",
+      "View integrations",
+      "Download web clipper",
+      "Eng & Product",
+      "Design",
+      "Marketing",
+      "IT",
+      "Startups",
+      "SMBs",
+      "Enterprise",
+      "Education",
+      "Help center",
+      "Notion Academy",
+      "Customer stories",
+      "Blog",
+      "Community",
+      "Partner programs",
+      "API",
+      "Templates",
+      "Security",
+      "Consultants",
+      "Notion AgentNew",
+      "Custom Agents",
+      "Enterprise Search",
+      "AI Meeting Notes",
+      "Flexible workflows",
+      "Get started on Notion",
+      "Notion Mail",
+      "Notion Calendar"
+    ]
+  },
+  "links": [
+    {
+      "text": "",
+      "url": "/product"
+    },
+    {
+      "text": "Notion AIBuild, write, automate",
+      "url": "/product/ai"
+    },
+    {
+      "text": "AgentsNewHandles manual tasks",
+      "url": "/product/ai/use-cases"
+    },
+    {
+      "text": "Enterprise SearchFind answers instantly",
+      "url": "/product/enterprise-search"
+    },
+    {
+      "text": "AI Meeting NotesPerfectly written by AI",
+      "url": "/product/ai-meeting-notes"
+    },
+    {
+      "text": "DocsSimple & powerful",
+      "url": "/product/docs"
+    },
+    {
+      "text": "Knowledge BaseCentralize your knowledge",
+      "url": "/product/wikis"
+    },
+    {
+      "text": "ProjectsManage any project",
+      "url": "/product/projects"
+    },
+    {
+      "text": "SitesPublish anything, fast",
+      "url": "/product/sites"
+    },
+    {
+      "text": "Explore AI use casesNewSee what Notion AI can do",
+      "url": "/product/ai/use-cases"
+    },
+    {
+      "text": "Browse marketplaceTemplates for everything",
+      "url": "/templates"
+    },
+    {
+      "text": "View integrationsConnect your apps with Notion",
+      "url": "/integrations"
+    },
+    {
+      "text": "Download web clipperSave from the web into Notion",
+      "url": "/web-clipper"
+    },
+    {
+      "text": "Download app",
+      "url": "/download"
+    },
+    {
+      "text": "Mail",
+      "url": "/product/mail"
+    },
+    {
+      "text": "Calendar",
+      "url": "/product/calendar"
+    },
+    {
+      "text": "AI",
+      "url": "/product/ai"
+    },
+    {
+      "text": "Enterprise",
+      "url": "/enterprise"
+    },
+    {
+      "text": "Pricing",
+      "url": "/pricing"
+    },
+    {
+      "text": "Eng & Product",
+      "url": "/product/notion-for-product-development"
+    },
+    {
+      "text": "Design",
+      "url": "/product/notion-for-design"
+    },
+    {
+      "text": "Marketing",
+      "url": "/templates/category/marketing"
+    },
+    {
+      "text": "IT",
+      "url": "/templates/category/ticketing"
+    },
+    {
+      "text": "Startups",
+      "url": "/startups"
+    },
+    {
+      "text": "SMBs",
+      "url": "/teams"
+    },
+    {
+      "text": "Enterprise",
+      "url": "/enterprise"
+    },
+    {
+      "text": "Education",
+      "url": "/product/notion-for-education"
+    },
+    {
+      "text": "Help center",
+      "url": "/help"
+    },
+    {
+      "text": "Notion Academy",
+      "url": "https://academy.notion.com"
+    },
+    {
+      "text": "Customer stories",
+      "url": "/customers"
+    },
+    {
+      "text": "Blog",
+      "url": "/blog"
+    },
+    {
+      "text": "Community",
+      "url": "/community"
+    },
+    {
+      "text": "Partner programs",
+      "url": "/partners"
+    },
+    {
+      "text": "API",
+      "url": "https://developers.notion.com"
+    },
+    {
+      "text": "Templates",
+      "url": "/templates"
+    },
+    {
+      "text": "Security",
+      "url": "/security"
+    },
+    {
+      "text": "Consultants",
+      "url": "/partners/solutions-partner-program"
+    },
+    {
+      "text": "Request a demo",
+      "url": "/contact-sales"
+    },
+    {
+      "text": "Log in",
+      "url": "/login"
+    },
+    {
+      "text": "Get Notion free",
+      "url": "/signup"
+    },
+    {
+      "text": "Get Notion free",
+      "url": "/signup"
+    },
+    {
+      "text": "Request a demo",
+      "url": "/contact-sales"
+    },
+    {
+      "text": "Notion AgentNewYou assign the tasks. Your Notion Agent does the work.→",
+      "url": "/product/ai/use-cases"
+    },
+    {
+      "text": "",
+      "url": "/product/custom-agents"
+    },
+    {
+      "text": "",
+      "url": "/product/enterprise-search"
+    },
+    {
+      "text": "",
+      "url": "/product/ai-meeting-notes"
+    },
+    {
+      "text": "",
+      "url": "/product/projects"
+    },
+    {
+      "text": "See pricing plans→",
+      "url": "/pricing"
+    },
+    {
+      "text": "Read the full story→",
+      "url": "/customers/openai"
+    },
+    {
+      "text": "Streamlined workflows to reduce timelines by 3x.→",
+      "url": "/customers/toyota"
+    },
+    {
+      "text": "“With Notion, every person at Ramp has an AI agent.”→",
+      "url": "/customers/ramp"
+    },
+    {
+      "text": "“Notion understands that you can solve a lot of problems with one tool.”→",
+      "url": "/customers/vercel"
+    },
+    {
+      "text": "“Notion has been the most powerful and impactful way to streamline our workflow.”→",
+      "url": "/customers/match"
+    },
+    {
+      "text": "“Using the most AI‑native tools like Notion is an important competitive advantage for us.”→",
+      "url": "/customers/cursor"
+    },
+    {
+      "text": "One hub for work and AI keeps everyone informed and work flowing.→",
+      "url": "/customers/figma"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://www.youtube.com/watch?v=HubmluaaFmc"
+    },
+    {
+      "text": "Read the full story→",
+      "url": "/customers/openai"
+    },
+    {
+      "text": "Explore more→",
+      "url": "/product/ai/use-cases"
+    },
+    {
+      "text": "Go from brainstorm to roadmap→",
+      "url": "/product/ai/use-cases/go-from-brainstorm-to-roadmap"
+    },
+    {
+      "text": "Turn meetings into social posts→",
+      "url": "/product/ai/use-cases/turn-meetings-into-social-posts"
+    },
+    {
+      "text": "Organize your workspace→",
+      "url": "/product/ai/use-cases/organize-your-workspace"
+    },
+    {
+      "text": "Onboard a new hire→",
+      "url": "/product/ai/use-cases/onboard-a-new-hire"
+    },
+    {
+      "text": "Revise a landing page→",
+      "url": "/product/ai/use-cases/revise-a-landing-page"
+    },
+    {
+      "text": "Plan an offsite→",
+      "url": "/product/ai/use-cases/plan-an-offsite"
+    },
+    {
+      "text": "Track favorite restaurants→",
+      "url": "/product/ai/use-cases/track-your-favorite-restaurants"
+    },
+    {
+      "text": "Transform notes into tasks→",
+      "url": "/product/ai/use-cases/task-management-for-teams"
+    },
+    {
+      "text": "Download for Mac",
+      "url": "/desktop/mac/download"
+    },
+    {
+      "text": "Download",
+      "url": "/product/mail/download"
+    },
+    {
+      "text": "Download",
+      "url": "/product/calendar/download"
+    },
+    {
+      "text": "in your browser",
+      "url": "/signup"
+    },
+    {
+      "text": "",
+      "url": "/product"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/notionhq/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/NotionHQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/notionhq/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/NotionHQ/"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCoSvlWS5XcwaSzIcbuJ-Ysg"
+    },
+    {
+      "text": "About us",
+      "url": "/about"
+    },
+    {
+      "text": "Careers",
+      "url": "/careers"
+    },
+    {
+      "text": "Security",
+      "url": "/security"
+    },
+    {
+      "text": "Status",
+      "url": "https://www.notion-status.com"
+    },
+    {
+      "text": "Terms & privacy",
+      "url": "https://www.notion.so/28ffdd083dc3473e9c2da6ec011b58ac"
+    },
+    {
+      "text": "Your privacy rights",
+      "url": "https://www.notion.com/trust/privacy-policy#california"
+    },
+    {
+      "text": "iOS & Android",
+      "url": "/mobile"
+    },
+    {
+      "text": "Mac & Windows",
+      "url": "/desktop"
+    },
+    {
+      "text": "Calendar",
+      "url": "/product/calendar/download"
+    },
+    {
+      "text": "Web Clipper",
+      "url": "/web-clipper"
+    },
+    {
+      "text": "Help center",
+      "url": "/help"
+    },
+    {
+      "text": "Pricing",
+      "url": "/pricing"
+    },
+    {
+      "text": "Blog",
+      "url": "/blog"
+    },
+    {
+      "text": "Community",
+      "url": "/community"
+    },
+    {
+      "text": "Integrations",
+      "url": "/integrations"
+    },
+    {
+      "text": "Templates",
+      "url": "/templates"
+    },
+    {
+      "text": "Partner programs",
+      "url": "/partners"
+    },
+    {
+      "text": "Enterprise",
+      "url": "/enterprise"
+    },
+    {
+      "text": "Small business",
+      "url": "/teams"
+    },
+    {
+      "text": "Personal",
+      "url": "/personal"
+    },
+    {
+      "text": "Explore more→",
+      "url": "/explore"
+    }
+  ]
+}
